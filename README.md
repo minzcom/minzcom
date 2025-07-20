@@ -24,7 +24,7 @@
 
 ---
 
-### 🎮 Cool Pixel Art Animation
+
 
 <p align="center">
   <img src="https://github.com/marcizhu/marcizhu/raw/output/pixel-gif.gif" alt="Cool Pixel Game Animation" width="480" />
