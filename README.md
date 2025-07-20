@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm AZMIN!
 
-<!--
-**minzcom/minzcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently pursuing a degree in **Computer Science**.  
+💻 I'm learning the fundamentals of **web development using Java**, especially:
+- JSP (JavaServer Pages)
+- Servlets
+- HTML, CSS, JavaScript
+- MySQL
 
-Here are some ideas to get you started:
+🛠️ I'm passionate about building simple projects to improve my coding skills and understanding how real systems work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Always learning something new and exploring the world of backend and full-stack development!
+
+📫 Feel free to connect or collaborate with me here on GitHub!
+
+---
+
+*This README will grow along with my skills 😄*
