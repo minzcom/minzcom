@@ -1,6 +1,6 @@
 <!-- Typing SVG Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+AZMIN+KACAK;Computer+Science+Student;Learning+Java%2C+JSP%2C+Web+Development;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Minzcom;Computer+Science+Student;Learning+Java%2C+JSP%2C+Web+Development;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,10 +32,10 @@
 
 ---
 
-### 🔥 GitHub Streak
+### 📁 My Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=minzcom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzcom&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -48,6 +48,12 @@
 
 ---
 
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
+✉️ Email: your.email@example.com (replace with yours!)
+
+---
+
 ### 🧠 Quote of the Day
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
