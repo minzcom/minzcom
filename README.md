@@ -40,13 +40,6 @@
 
 ---
 
-### 📈 Contribution Grid Animation (Dynamic)
-
-<p align="center">
-  <img src="https://github.com/minzcom/minzcom/raw/output/github-contribution-grid-snake.svg" alt="Contribution Grid Animation" />
-</p>
-
-> 📝 If the animation doesn't appear above, you can set it up by forking [Platane/snk](https://github.com/Platane/snk) and enabling GitHub Actions. I can guide you if you want it to update automatically.
 
 ---
 
