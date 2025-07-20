@@ -24,11 +24,12 @@
 
 ---
 
-### 🍄 Mario-style Fun Animation (Why not!)
+### 🍄 Mario-style Fun Animation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJlb3BpY3Q3NzZrMGxzaDh6OWpjd3RpMG5zOXZwMGtqNGhnbWFjMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G96zgIcQ9aODE/giphy.gif" alt="Mario Running" width="300" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/mario-running.gif" alt="Mario Running" width="220" />
 </p>
+
 
 ---
 
