@@ -24,11 +24,29 @@
 
 ---
 
-
+### 🎮 Cool Pixel Game Vibes
 
 <p align="center">
   <img src="https://github.com/marcizhu/marcizhu/raw/output/pixel-gif.gif" alt="Cool Pixel Game Animation" width="480" />
 </p>
+
+---
+
+### 🕹️ Pac-Man Eating My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=minzcom&theme=dark" alt="Pac-Man Contributions" />
+</p>
+
+---
+
+### 📈 Contribution Grid Animation (Dynamic)
+
+<p align="center">
+  <img src="https://github.com/minzcom/minzcom/raw/output/github-contribution-grid-snake.svg" alt="Contribution Grid Animation" />
+</p>
+
+> 📝 If the animation doesn't appear above, you can set it up by forking [Platane/snk](https://github.com/Platane/snk) and enabling GitHub Actions. I can guide you if you want it to update automatically.
 
 ---
 
@@ -37,6 +55,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzcom&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
+
+---
 
 ### 🌐 Let's Connect
 
