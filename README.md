@@ -38,16 +38,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minzcom&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" />
 </p>
 
----
-
-### 🕹️ Pac-Man Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=minzcom&theme=dark" alt="Pac-Man Contributions" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 - 🔗 Website: [myazmin.my](https://myazmin.my)
