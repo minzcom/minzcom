@@ -24,13 +24,11 @@
 
 ---
 
-### 🍄 Mario-style Fun Animation
+### 🎮 Cool Pixel Art Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat46/Fake-Mario-Terminal/main/assets/mario-run.gif" alt="Mario Running" width="240" />
+  <img src="https://github.com/marcizhu/marcizhu/raw/output/pixel-gif.gif" alt="Cool Pixel Game Animation" width="480" />
 </p>
-
-
 
 ---
 
