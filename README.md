@@ -24,10 +24,10 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🍄 Mario-style Fun Animation (Why not!)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minzcom&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHJlb3BpY3Q3NzZrMGxzaDh6OWpjd3RpMG5zOXZwMGtqNGhnbWFjMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G96zgIcQ9aODE/giphy.gif" alt="Mario Running" width="300" />
 </p>
 
 ---
@@ -48,10 +48,10 @@
 
 ---
 
-### 📫 Let's Connect
+### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/)  
-✉️ Email: your.email@example.com (replace with yours!)
+- 🔗 Website: [myazmin.my](https://myazmin.my)
+- 💼 LinkedIn: [linkedin.com/in/mintampan](https://www.linkedin.com/in/mintampan)
 
 ---
 
