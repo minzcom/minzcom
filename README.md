@@ -27,8 +27,9 @@
 ### 🍄 Mario-style Fun Animation
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/mario-running.gif" alt="Mario Running" width="220" />
+  <img src="https://raw.githubusercontent.com/akshat46/Fake-Mario-Terminal/main/assets/mario-run.gif" alt="Mario Running" width="240" />
 </p>
+
 
 
 ---
